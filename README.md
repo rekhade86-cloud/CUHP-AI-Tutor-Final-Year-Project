@@ -9,3 +9,10 @@ Step by Step Procedure
 5. Open browser http://localhost:8000 and use your ai model(Do every time when use)
 
 For error restart do again or contact me rekhade86@gmail.com
+
+Result:
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/a2fba49f-6c39-4d63-8a22-960d8d1b9de3" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/0a32825e-8068-4a05-bbd5-a587f165acae" />
+
+
+Thanks for reading this repo
